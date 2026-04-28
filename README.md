@@ -52,6 +52,6 @@ The bracket is rendered visually on an HTML `<canvas>` element. Contestants are 
 
 - HTML, CSS, Vanilla JavaScript
 - MusicBrainz API *(free, no API key required)*
-- `localStorage` for tournament persistence
+- `localStorage` for score tracking
 - HTML Canvas for bracket rendering
 - VS Code + GitHub
